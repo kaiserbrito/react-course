@@ -4,3 +4,6 @@
 [submodule "pics"]
 	path = pics
 	url = git@github.com:kaiserbrito/search-picture.git
+[submodule "videos"]
+	path = videos
+	url = git@github.com:kaiserbrito/search-videos.git
