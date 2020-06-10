@@ -1,3 +1,6 @@
 [submodule "seasons"]
 	path = seasons
 	url = git@github.com:kaiserbrito/seasons-app.git
+[submodule "pics"]
+	path = pics
+	url = git@github.com:kaiserbrito/search-picture.git
