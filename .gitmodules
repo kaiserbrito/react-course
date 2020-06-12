@@ -10,3 +10,6 @@
 [submodule "songs"]
 	path = songs
 	url = git@github.com:kaiserbrito/songs.git
+[submodule "blog"]
+	path = blog
+	url = git@github.com:kaiserbrito/react-redux-blog.git
