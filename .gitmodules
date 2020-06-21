@@ -13,3 +13,6 @@
 [submodule "blog"]
 	path = blog
 	url = git@github.com:kaiserbrito/react-redux-blog.git
+[submodule "streams"]
+	path = streams
+	url = git@github.com:kaiserbrito/streams.git
