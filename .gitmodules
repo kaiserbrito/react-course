@@ -16,3 +16,6 @@
 [submodule "streams"]
 	path = streams
 	url = git@github.com:kaiserbrito/streams.git
+[submodule "translate"]
+	path = translate
+	url = git@github.com:kaiserbrito/react-translante.git
