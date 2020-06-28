@@ -19,3 +19,6 @@
 [submodule "translate"]
 	path = translate
 	url = git@github.com:kaiserbrito/react-translante.git
+[submodule "hooks-simple"]
+	path = hooks-simple
+	url = git@github.com:kaiserbrito/hooks-simple.git
